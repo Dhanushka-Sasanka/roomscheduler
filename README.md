@@ -1,7 +1,7 @@
 # roomscheduler
 
-This is a GUI room shceduler
-The rooms are reservedby Faculty name. Faculty can request a room reservation for a specific Datebased on the number of seats they require. The room will be assigned by the program, faculty do not get to request a specific room.Each Dateis just a specific Date. Faculty areidentified by a single name. 
+This is a GUI room scheduler
+The rooms are reservedby Faculty name. Faculty can request a room reservation for a specific Date based on the number of seats they require. The room will be assigned by the program, faculty do not get to request a specific room.Each Dateis just a specific Date. Faculty areidentified by a single name. 
 
 Faculty - A faculty member is added to the database. The faculty member is identified by only onename.
 
